@@ -11,6 +11,10 @@ function Header() {
   );
 }
 
+function MainGoal() {
+  return <p>My main goal: Learn React in-depth and from the ground up</p>
+}
+
 function App() {
   return (
     <div>
@@ -18,6 +22,7 @@ function App() {
       <main>
         <h2>Time to get started!*!</h2>
       </main>
+      <MainGoal />
     </div>
   );
 }
