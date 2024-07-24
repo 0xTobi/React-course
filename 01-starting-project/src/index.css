@@ -85,6 +85,10 @@ main h2 {
   margin: 0;
 }
 
+#tab-content p {
+  text-align: left;
+}
+
 #tab-content code {
   font-size: 1rem;
 }
