@@ -8,7 +8,7 @@ function App() {
           <Player initialName={"Player 1"} symbol={"X"} />
           <Player initialName={"Player 2"} symbol={"O"} />
         </ol>
-        GAME BOARD
+        GAME BOARD...
       </div>
       LOG
     </main>
